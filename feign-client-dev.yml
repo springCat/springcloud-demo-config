@@ -9,3 +9,5 @@ eureka:
 ribbon:
   eureka:
     enabled: true
+reply:
+  message: i am message
