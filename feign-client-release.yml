@@ -1,5 +1,5 @@
- hserver:
-  port: 9102
+server:
+  port: 9104
 
 eureka:
   client:
